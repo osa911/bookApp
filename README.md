@@ -1,4 +1,4 @@
-Sri test app
+Test app
 
 To start application use:
 1."npm install"
